@@ -1,6 +1,6 @@
 # Student-Management-system-python
 
-##Description:
+## Description:
 The Student result management system is a software developed by using Python and project
 development tools SQLite3 and Pillow.
 This software project includes features such as Student Registration and login where a new user
@@ -16,7 +16,7 @@ Management System. We are using SQLite which is a software library of python tha
 relational database management system locally and Pillow which is a tool used for lightweight
 image processing and framework.
 
-##Features:
+## Features:
 Our student result management system has 5 core features:
 1. Registration & Login
 2. Course management
@@ -24,7 +24,7 @@ Our student result management system has 5 core features:
 4. Result management
 5. Result viewing
 
-##Language and Tools:
+## Language and Tools:
 - Python
 - Sqlite3 (software library of python)
 - Pillow (lightweight image processing tools )
